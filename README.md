@@ -1,4 +1,4 @@
-# Cancer Detection Model
+# Cancer Diagnosis Model
 
 ## Project Overview
 
@@ -41,3 +41,14 @@ This project aims to predict cancer presence using various machine learning tech
 1. **Ensure Required Libraries**: Make sure you have all the necessary libraries installed. You can install them using:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
+   ```
+2. **Navigate to the Project Directory**: Ensure you are in the project home directory where the `Cancer_Prediction.ipynb` file is located.
+
+3. **Open the Notebook**: Use Jupyter Notebook or Jupyter Lab to open `Cancer_Prediction.ipynb`.
+
+4. **Run the Notebook**: Execute the cells in the notebook to perform EDA, data processing, model training, and evaluation.
+
+## Conclusion
+
+The **`Cancer_Classifier`** project demonstrates the application of various machine learning techniques for cancer prediction. It provides insights into the effectiveness of different preprocessing methods and model evaluation metrics.
+
